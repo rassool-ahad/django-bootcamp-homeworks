@@ -1,0 +1,87 @@
+INFO:root:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+INFO:root:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+INFO:root:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+INFO:sample_logger:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+Person created! ali alavi
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+Person created! gholi gholami
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:root:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:root:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+Person created! ali alavi
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+Person created! gholi gholami
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+WARNING:person_logger:Person created! gholi gholami
+DEBUG:sample_logger:a/b=0.6666666666666666
+INFO:sample_logger:Divide by zero!
+2021-04-25 00:08:06,107-person_log-WARNING-Person created! ali alavi
+WARNING:person_logger:Person created! ali alavi
+CRITICAL:root:Invalid age!
+2021-04-25 00:08:06,107-person_log-WARNING-Person created! gholi gholami
+WARNING:person_logger:Person created! gholi gholami

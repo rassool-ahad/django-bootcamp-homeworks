@@ -1,0 +1,4 @@
+words with all letters upper are:
+CWI , ABC , SETL , 
+words with first letters upper are:
+Python , Guido , Rossum , Centrum , Wiskunde , Informatica , Netherlands , Amoeba , Its , December , Van , Rossum , July , Python's , Benevolent , Dictator , For , Life , Python , He , In , January , Python , Brett , Cannon , Nick , Coghlan , Barry , Warsaw , Carol , Willing , Van , Rossum , Council" , Guido , Rossum , Steering , October , UnicodePython , December , It , Many , Python , Releases , Python , Python , Python , Python , No , With , Python , Python , Python , 
