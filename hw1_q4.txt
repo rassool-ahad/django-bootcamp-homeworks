@@ -1,0 +1,11 @@
+output of 4th qustion is :
+0.0
+-112
+true
+false
+error: it's invalid for casting to int
+-12.22
+1.0
+12
+true
+error: bool(12.345) = true --> str(true)='true' --> int('true') --> it's invalid for casting to int
