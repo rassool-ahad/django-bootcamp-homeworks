@@ -1,0 +1,19 @@
+پاسخ سوال ۴ :
+__del__ :
+مخفف destructor است و وقتی که instanseای از کلاس را del می کنیم فراخوانده می شود
+__getattr__:
+زمانی فراخوانده می شود که متغیری که در کلاس وجود ندارد استفاده شود
+مثال :
+class A:
+    def __init__(self,attribute):
+        self.attribute = attribute
+    def __getattr__(self,attr):
+        return self.attribute
+instance = A(1)
+print(instance.z)
+__setatrr__ :
+مثل getattr ولی برای set کردن متغیری که در کلاس وجود ندارد
+__new__:
+ساخت شی را برعهده دارد
+در متد new ُ متغیر clsداریم زیرا هنوز instance ای ساخته نشده است . در نتیجه دسترسی به self وجود ندارد اما بعد از init کردن کلاس instanceای از آن شی ساخته می شود .در نتیجه دسترسی به self وجود دارد
+توجه : خروجی init از نوع none است در نتیجه در استفاده از init نمی توانیم چیزی را return کنیم؛ در حالی که خروجی new از نوع any بوده و می توانیم return کنیم

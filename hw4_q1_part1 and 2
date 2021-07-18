@@ -1,0 +1,6 @@
+first part : related to mro inheritence is be :
+ [<class '__main__.E'>, <class '__main__.D'>,
+<class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>,
+ <class '__main__.Z'>, <class 'object'>]
+second part :
+ با توجه به این که کلاس سوپر کلاس e در مرحله اول به خود کلاس e اشاره می کند و متود do_job در این کلاس ۳ ورودی دارد  درنتیجه با دو ورودی ارور می دهد
