@@ -8,4 +8,5 @@ admin.site.register(Orders)
 admin.site.register(MenuItems)
 admin.site.register(Category)
 admin.site.register(Status)
+admin.site.register(Massages)
 

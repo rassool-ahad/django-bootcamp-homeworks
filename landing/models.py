@@ -1,4 +1,3 @@
-from typing import Optional
 from django.db import models
 from csfe_django.utilities import Validators
 
